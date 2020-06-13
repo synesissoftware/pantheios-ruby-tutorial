@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    pantheios-ruby (0.22.0.2)
+    recls-ruby (2.11.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  pantheios-ruby
+  recls-ruby
+
+BUNDLED WITH
+   2.0.1
