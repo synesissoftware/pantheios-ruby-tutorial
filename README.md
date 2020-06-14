@@ -1,6 +1,6 @@
 # pantheios-ruby-tutorial
 
-The example project presented on [blog.pantheios.org](https://blog.pantheios.org "Pantheios blog") for the Pantheios.Ruby project
+The example project presented on [blog.pantheios.org](http://blog.pantheios.org "Pantheios blog") for the Pantheios.Ruby project
 
 ## Blog instalments
 
